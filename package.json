@@ -1,0 +1,23 @@
+{
+  "name": "go-plus",
+  "version": "1.0.0",
+  "description": "This is a simple game that is build using React. Lets Try to make this fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MurshidMac/React-Games.git"
+  },
+  "keywords": [
+    "React",
+    "Games"
+  ],
+  "author": "Murshid Hassen <murshid.hassen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MurshidMac/React-Games/issues"
+  },
+  "homepage": "https://github.com/MurshidMac/React-Games#readme"
+}
